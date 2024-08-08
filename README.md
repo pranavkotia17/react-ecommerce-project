@@ -1,3 +1,7 @@
+# Screenshot
+
+![burgeradmin](https://github.com/user-attachments/assets/5bc6f40d-6a4f-4621-bd20-2a1aaf91ffc1)
+
 # eCommerce Cart Project
 This is a simple eCommerce application built with React, Redux, and Material UI. The project includes core features like browsing products, adding them to the cart, and viewing the cart contents.
 
