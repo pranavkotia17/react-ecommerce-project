@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Cheese Burger",
+      "image": "burger5.jpg",
+      "price": 245,
+      "rating": 2
+    },
+    {
+      "id": 2,
+      "name": "Chicken Burger",
+      "image": "burger4.jpg",
+      "price": 500,
+      "rating": 1
+    },
+    {
+      "id": 3,
+      "name": "Maha Burger",
+      "image": "burger6.jpg",
+      "price": 850,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Fried Noodles",
+      "image": "noodles.jpg",
+      "price": 100,
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Margherita Pizza",
+      "image": "pizzaLarge.jpg",
+      "price": 300,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Shake",
+      "image": "chocshake.jpg",
+      "price": 50,
+      "rating": 0
+    }
+  ]
+  
