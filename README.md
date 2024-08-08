@@ -6,15 +6,15 @@
 This is a simple eCommerce application built with React, Redux, and Material UI. The project includes core features like browsing products, adding them to the cart, and viewing the cart contents.
 
 # Features
-Add to Cart: Users can add products to their shopping cart.
-Cart Management: Users can view and manage items in their cart.
-Responsive Design: The UI is responsive and works well on different screen sizes.
+# Add to Cart: Users can add products to their shopping cart.
+# Cart Management: Users can view and manage items in their cart.
+# Responsive Design: The UI is responsive and works well on different screen sizes.
 
 # Technologies Used
-React: JavaScript library for building user interfaces.
-Redux: State management library to manage the application state.
-Material UI: React components for faster and easier web development with a consistent design.
-React Router: For handling routing within the application.
+# React: JavaScript library for building user interfaces.
+# Redux: State management library to manage the application state.
+# Material UI: React components for faster and easier web development with a consistent design.
+# React Router: For handling routing within the application.
 
 # Getting Started with Create React App
 
